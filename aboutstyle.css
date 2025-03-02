@@ -1,0 +1,11 @@
+body{
+    background-image: url("images/4.jpg");
+    background-size: cover;
+}
+.about p{
+    color: white;
+    font-size: 18px;
+}
+.about h2{
+    color: white;
+}
