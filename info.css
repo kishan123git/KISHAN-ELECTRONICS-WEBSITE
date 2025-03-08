@@ -1,0 +1,67 @@
+
+
+body{
+    background-image: url("images/3.jpg");
+    background-size: cover;
+    
+}
+div .chetanpatel{
+    background-image: url("images/chetanpatel.jpg");
+    padding-top: 295px;
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+
+div .sharadpatel{
+    background-image: url("images/sharadbhai.jpg");
+    padding-top: 295px;
+   background-size: contain;
+   background-repeat: no-repeat;
+}
+.manu ul{
+    text-align: center;
+}
+.manu ul li{
+    list-style: none;
+}
+.navbar {
+    width: 1200px;
+    height: 80px;
+    margin: auto;
+
+}
+.manu {
+    width: 400px;
+    float: left;
+    height: 70px;
+
+}
+
+.manu ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+ul li a {
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    transition: .4s ease-in-out;
+    margin-left: 50px;
+    text-align: center;
+}
+
+ul li a:hover {
+    color: blueviolet;
+}
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: relative;
+}
